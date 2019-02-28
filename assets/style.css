@@ -7,12 +7,12 @@ body {
   height: auto;
 }
 .container{
-  background: #000;
+  background: #008;
   position: relative;
   width: auto;
   height: auto;
   margin: 20px auto 20px auto;
-  padding:200px;
+  padding:100px;
 }
 h1, p{
   color: #fff;
